@@ -2,7 +2,7 @@
 import "dart:io";
 import "a1_class_helloworld.dart";
 import "a2_class_have_a_nice_day.dart";
-// import "a3_class_person.dart";
+//import "a3_class_person.dart";
 
 void main() {
   stdout.write("\x1B[2J\x1B[0;0H"); // entfernt die Zusatz-Info im Terminal
