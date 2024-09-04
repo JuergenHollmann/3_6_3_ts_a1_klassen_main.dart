@@ -18,4 +18,10 @@ void main() {
   HaveANiceDay setNewName = HaveANiceDay("Peter", "");
   print("Der neue Name heißt ${setNewName.name}.");
   print("-------------------------------------------------------");
+  print("Aufgabe 3:");
+
+
+
+    print("-------------------------------------------------------");
+
 }
