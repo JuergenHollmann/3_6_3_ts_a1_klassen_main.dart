@@ -1,4 +1,4 @@
-/* a10_class_mixer.dart - Mixer
+/* a9_class_mixer.dart - Mixer
 Schreibe eine Klasse für einen Standmixer.
 Die Klasse sollte die folgenden Attribute und Methoden haben:
 Attribute

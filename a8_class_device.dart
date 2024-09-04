@@ -1,4 +1,4 @@
-/* a9_class_device.dart - Gerätedaten
+/* a8_class_device.dart - Gerätedaten
 Schreibe eine Klasse für die Daten eines elektrischen Gerätes,
 zum Beispiel die Marke, die Leistung etc.
 Diese Klasse soll später in anderen Klassen verwendet werden können,

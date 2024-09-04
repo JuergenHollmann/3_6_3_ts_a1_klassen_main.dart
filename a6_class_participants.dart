@@ -1,4 +1,4 @@
-/* a7_class_participants.dart - Teilnehmer
+/* a6_class_participants.dart - Teilnehmer
 Schreibe eine Klasse für einen Teilnehmer.
 Die Klasse sollte verschiedene Eigenschaften eines Teilnehmers
 der App Akademie haben, zum Beispiel den Namen, eine Liste von
