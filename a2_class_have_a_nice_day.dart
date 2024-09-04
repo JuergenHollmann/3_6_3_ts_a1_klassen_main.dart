@@ -7,13 +7,11 @@ Schreibe eine Methode, die den Namen auf einen anderen Namen setzt.*/
 class HaveANiceDay {
   String name;
   String printOut;
-  HaveANiceDay(this.name,this.printOut);
+  HaveANiceDay(this.name, this.printOut);
 
-void newName(String newName) {
-    print("Der neue Name lautet: $newName");
-  }
-
-
+// void newName(String newName) {
+//     print("Der neue Name lautet: $newName");
+//   }
 
   String PrintOut() {
     printOut = "Guten Tag, ";
